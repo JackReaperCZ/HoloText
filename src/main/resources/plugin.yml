@@ -1,0 +1,18 @@
+name: HoloText
+main: cz.jackreaper.holotext.HoloTextPlugin
+version: 1.0.0
+api-version: '1.21'
+description: Floating text (hologram) manager with commands and API
+author: JackReaper
+
+commands:
+  holo:
+    description: Manage holograms (create/delete/update/move/list)
+    usage: "/holo <create|delete|update|move|list|reset|purge [world|radius]>"
+    permission: holotext.admin
+    aliases: [holotext]
+
+permissions:
+  holotext.admin:
+    description: Allows managing holograms
+    default: op
