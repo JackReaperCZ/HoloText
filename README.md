@@ -68,4 +68,4 @@ Troubleshooting
 - If you upgraded Paper, review deprecation warnings and recompile.
 
 License
-- Provided as-is. No explicit license included; adapt to your server needs.
+- MIT Licence 2025
