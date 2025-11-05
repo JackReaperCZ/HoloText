@@ -1,6 +1,6 @@
 Param(
   [string]$ServerDir = "C:\McServers\Paper-1.21.4",
-  [string]$Version = "1.0.0",
+  [string]$Version = "1.0.1",
   [string]$ServerJarName = "paper-1.21.4-232.jar",
   [switch]$RunServer
 )

@@ -7,7 +7,7 @@ Requirements
 - Permission: `holotext.admin` (defaults to op)
 
 Installation
-- Download `HoloText-1.0.0.jar` from your build output.
+- Download `HoloText-1.0.1.jar` from your build output.
 - Place the jar in your server `plugins/` folder.
 - Start or restart the server. You should see `HoloText enabled` in the console.
 
@@ -60,7 +60,7 @@ Java API (for other plugins)
 Building From Source
 - Requires Java 21 and Maven.
 - Run `./build.ps1` (Windows PowerShell) or `mvn -q -DskipTests package`.
-- Output jar: `target/HoloText-1.0.0.jar` and optionally copied to your server `plugins/` folder by the provided script.
+- Output jar: `target/HoloText-1.0.1.jar` and optionally copied to your server `plugins/` folder by the provided script.
 
 Troubleshooting
 - Ensure the world name exists when creating/moving from console.
