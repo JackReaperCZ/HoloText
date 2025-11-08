@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="120" alt="HoloText icon" />
+  <img src="icon.png" width="400" alt="HoloText icon" />
 </p>
 
 # HoloText
